@@ -1,4 +1,6 @@
-Hi, welcome to my case study 1.
+Hi:) 
+
+Welcome to my case study 1.
 
 The first case study was to produce Premier League 2023-24 fact sheets. 
 In early June 2024, the dataset was obtained from Kaggle(link: https://www.kaggle.com/datasets/davidcariboo/player-scores) and analysed and visualised via SQL and Tableau.
